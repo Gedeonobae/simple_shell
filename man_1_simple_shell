@@ -1,0 +1,6 @@
+.TH man "SIMPLE_SHELL"
+.SH NAME
+.B simple_shell
+- a simple UNIX Command Line Interpreter
+.SH SYNOPSIS
+.sp
