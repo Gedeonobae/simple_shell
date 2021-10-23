@@ -32,6 +32,7 @@ Clone this repository into your working directory. Files should be compiled with
 4. The command lines are made only of one word. No arguments will be passed to programs.
 5. If an executable cannot be found, prints an error message and display the prompt again.
 
-### AUTHORS
+## Authors :black_nib:
 
-Codes written by Gideon Ogega and Gedeon Obae
+* Gideon Mokaya<[Ogega254](https://github.com/Ogega254)>
+* Gedeon Obae Gekonge <[Gedeonobae](https://github.com/Gedeononae)>
