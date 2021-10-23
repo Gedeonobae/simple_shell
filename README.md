@@ -6,7 +6,7 @@ This is a simple UNIX Command Line Intepreter that copies the functionalities of
 ### Installation
 Clone this repository into your working directory. Files should be compiled with GCC
 
-###General Requirements
+### General Requirements
 1.Allowed editors: vi, vim, emacs
 
 2.All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -25,12 +25,13 @@ Clone this repository into your working directory. Files should be compiled with
 
 9.Use system calls only when you need to (why?)
 
-###Features
+### Features
 1. Display a prompt and wait for the user to type a command. A command line always ends with a new line.
 2. The prompt is displayed again each time a command has been executed.
 3. The command lines are simple, no semicolons, no pipes, no redirections or any other advanced features.
 4. The command lines are made only of one word. No arguments will be passed to programs.
 5. If an executable cannot be found, prints an error message and display the prompt again.
 
-###AUTHORS
+### AUTHORS
+
 Codes written by Gideon Ogega and Gedeon Obae
