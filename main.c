@@ -1,7 +1,7 @@
 /*
  * File: main.c
- * Auth: Gedeon Obae Gekonge
- *	Gideon Ogega Mokaya       
+ * Auth: Gideon Mokaya
+ *       Gedeon Obae Gekonge
  */
 
 #include "shell.h"
