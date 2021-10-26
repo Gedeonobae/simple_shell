@@ -1,9 +1,3 @@
-/*
- * File: locate.c
- * Auth: Gedeon Obae Gekonge
- * 
- */
-
 #include "shell.h"
 
 char *fill_path_dir(char *path);
