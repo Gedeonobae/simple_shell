@@ -4,7 +4,7 @@
 /*
  * File: shell.h
  * Auth: Gedeon Obae Gekonge
- *       
+ * Gideon Ogega Mokaya      
  */
 
 #include <fcntl.h>
