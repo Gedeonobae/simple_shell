@@ -1,7 +1,7 @@
 /*
  * File: locate.c
  * Auth: Gedeon Obae Gekonge
- *       
+ * 
  */
 
 #include "shell.h"
