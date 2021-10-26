@@ -30,7 +30,7 @@ Clone this repository into your working directory. Files should be compiled with
 2. The prompt is displayed again each time a command has been executed.
 3. The command lines are simple, no semicolons, no pipes, no redirections or any other advanced features.
 4. The command lines are made only of one word. No arguments will be passed to programs.
-5. If an executable cannot be found, prints an error message and display the prompt again.
+5. If an executable cannot be found, prints an error message and display the prompt again....
 
 ## Authors :black_nib:
 
