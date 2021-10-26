@@ -1,9 +1,3 @@
-/*
- * File: helper.c
- * Auth: Gedeon Obae Gekonge
- *       Gd 
- */
-
 #include "shell.h"
 
 void free_args(char **args, char **front);
