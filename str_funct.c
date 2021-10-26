@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: shell.h
+ * Auth: Gideon Mokaya
+ * 
+ */
+
 int _strlen(const char *s);
 char *_strcpy(char *dest, const char *src);
 char *_strcat(char *dest, const char *src);
