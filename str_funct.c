@@ -3,7 +3,7 @@
 /*
  * File: shell.h
  * Auth: Gideon Mokaya
- * 
+ *       Gedeon Obae Gekonge
  */
 
 int _strlen(const char *s);
