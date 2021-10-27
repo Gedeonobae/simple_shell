@@ -1,5 +1,5 @@
 /*
- * File: main.c
+ * File: shell.c
  * Auth:
  *       Gedeon Obae Gekonge
  */
