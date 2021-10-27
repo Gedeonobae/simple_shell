@@ -1,6 +1,6 @@
 /*
  * File: env_builtins.c
- * Auth:
+ * Auth: Gideon Ogega Mokaya
  *       Gedeon Obae Gekonge
  */
 
