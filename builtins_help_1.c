@@ -1,6 +1,6 @@
 /*
  * File: builtins_help_1.c
- * Auth:
+ * Auth: Gideon Ogega Mokaya
  *       Gedeon Obae Gekonge
  */
 
