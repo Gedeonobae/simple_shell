@@ -1,5 +1,5 @@
 /*
- * File: locate.c
+ * File: builtins_help_1.c
  * Auth:
  *       Gedeon Obae Gekonge
  */
