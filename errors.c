@@ -1,5 +1,5 @@
 /*
- * File: locate.c
+ * File: errors.c
  * Auth:
  *       Gedeon Obae Gekonge
  */
