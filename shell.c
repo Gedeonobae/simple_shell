@@ -1,7 +1,9 @@
-/**
- * Auth: 
- *     : Gedeon Obae Gekonge
+/*
+ * File: main.c
+ * Auth:
+ *       Gedeon Obae Gekonge
  */
+
 #include "shell.h"
 
 void shell(int ac, char **av, char **env)
