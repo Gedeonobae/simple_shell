@@ -1,5 +1,5 @@
 /*
- * File: builtin.c
+ * File: linkedlist.c
  * Auth: Gideon Ogega Mokaya
  *       Gedeon Obae Gekonge
  */
