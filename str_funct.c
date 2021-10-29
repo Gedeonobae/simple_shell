@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /*
- * File: shell.h
+ * File: str_funct.c
  * Auth: Gideon Mokaya
  *       Gedeon Obae Gekonge
  */
