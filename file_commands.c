@@ -1,5 +1,5 @@
 /*
- * File: builtins_help_1.c
+ * File: file_commands.c
  * Auth: Gideon Ogega Mokaya
  *       Gedeon Obae Gekonge
  */
@@ -128,4 +128,3 @@ int proc_file_commands(char *file_path, int *exe_ret)
 	free(front);
 	return (ret);
 }
-
