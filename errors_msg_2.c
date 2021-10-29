@@ -1,5 +1,5 @@
 /*
- * File: builtin.c
+ * File: errors_msg_2.c
  * Auth: Gedeon Obae Gekonge 
  *       Gideon Ogega Mokaya
  */
