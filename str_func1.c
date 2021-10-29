@@ -1,5 +1,5 @@
 /*
- * File: builtin.c
+ * File: str_func1.c
  * Auth: Gideon Ogega Mokaya
  *       Gedeon Obae Gekonge 
  */
