@@ -19,9 +19,9 @@ Clone this repository into your working directory. Files should be compiled with
 
 6.Your shell should not have any memory leaks
 
-7.No more than 5 functions per file
+7.No more than 5 functions per file.
 
-8.All your header files should be include guarded
+8.All your header files should be include guarded.
 
 9.Use system calls only when you need to (why?)
 
