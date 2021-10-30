@@ -78,4 +78,4 @@ The primary prompt string, which defaults to “$ ”
 .SH BUGS
 .ip Expansions only work once per stdin read
 .SH AUTHOR
-Gideon and Obae
+Gideon Mokaya and Gedeon Obae Geknge
