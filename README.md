@@ -25,7 +25,7 @@ Clone this repository into your working directory. Files should be compiled with
 
 9.Use system calls only when you need to (why?)
 
-### Features
+### Features.
 1. Display a prompt and wait for the user to type a command. A command line always ends with a new line.
 2. The prompt is displayed again each time a command has been executed.
 3. The command lines are simple, no semicolons, no pipes, no redirections or any other advanced features.
