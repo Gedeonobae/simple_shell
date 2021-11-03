@@ -17,6 +17,7 @@ Clone this repository into your working directory. Files should be compiled with
 
 5.Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 
+
 6.Your shell should not have any memory leaks.
 
 7.No more than 5 functions per file.
