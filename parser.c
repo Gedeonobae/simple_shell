@@ -1,10 +1,12 @@
 #include "shell.h"
 
 /**
+ * authors:gideon mokaya and gedeon obae
  * parse_cmd - Parse Line Of Input
  * @input:User Input To Parse
  * Return: Array Of Char (Parsed):Simple Shell
  */
+
 char **parse_cmd(char *input)
 {
 	char **tokens;
