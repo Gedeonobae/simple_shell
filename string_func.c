@@ -1,5 +1,6 @@
 #include "shell.h"
 /**
+ * authors:gideon mokaya and gedeon obae
  * _strcpy - Copie Source To Destination Char
  * @dest:Destination
  * @src:Source

@@ -1,5 +1,6 @@
 #include "shell.h"
 /**
+ * authors:gideon mokaya and gedeon obae
  * _putchar - writes the character c to stdout
  * @c: The character to print
  *
