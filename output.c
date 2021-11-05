@@ -1,5 +1,6 @@
 #include "shell.h"
 /**
+ * authors:gideon mokaya and gedeon obae
  *  _prerror - Print Custome Error
  * @argv:Program Name
  * @c:Error Count
