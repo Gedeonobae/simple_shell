@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+* authors:gideon mokaya and gedeon obae
 * _getline - Read The Input By User From Stdin
 * Return: Input
 *alx-school-- shell
