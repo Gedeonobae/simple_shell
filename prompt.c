@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+ * authors:gideon mokaya and gedeon obae
  * prompt - Display Shell Prompt
  */
 void prompt(void)
