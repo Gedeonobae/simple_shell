@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+ * authors:gideon mokaya and gedeon obae
  * history_dis - Display History Of User Input Simple Shell
  * @c:Parsed Command
  * @s:Statue Of Last Excute
