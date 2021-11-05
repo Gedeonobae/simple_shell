@@ -1,5 +1,6 @@
 #include "shell.h"
 /**
+ * authors:gideon mokaya and gedeon obae
  * check_delim - Checks If A Character Match Any Char *
  * @c: Character To Check
  * @str: String To Check
