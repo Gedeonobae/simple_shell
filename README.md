@@ -13,7 +13,7 @@ Clone this repository into your working directory. Files should be compiled with
 
 3.All your files should end with a new line
 
-4.A README.md file, at the root of the folder of the project is mandatory
+4.A README.md file, at the root of the folder of the project is mandatory.
 
 5.Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 
