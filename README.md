@@ -7,6 +7,7 @@ This is a simple UNIX Command Line Intepreter that copies the functionalities of
 Clone this repository into your working directory. Files should be compiled with GCC
 
 ### General Requirements.
+
 1.Allowed editors: vi, vim, emacs
 
 2.All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
