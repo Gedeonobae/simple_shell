@@ -11,6 +11,10 @@ cd simple_shell
 ```
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 ```
+<br>
+```
+./hsh
+```
 
 ### Installation.
 Clone this repository into your working directory. Files should be compiled with GCC
