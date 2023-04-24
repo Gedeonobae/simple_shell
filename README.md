@@ -2,6 +2,15 @@
 
 ### Introduction.
 This is a simple UNIX Command Line Intepreter that copies the functionalities of shell (sh).
+## How it works...
+* clone this repo then,
+```
+cd simple_shell
+```
+* Run this command
+```
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
+```
 
 ### Installation.
 Clone this repository into your working directory. Files should be compiled with GCC
